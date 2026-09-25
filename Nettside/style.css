@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: rgb(255, 0, 0);
+}
+
+div{
+  text-align: center;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(121, 51, 140);
+}
+ 
+header{
+  background-color: rgb(121, 51, 140);
+  color: white;
+  font-family: Arial rgb(121, 51, 140);
+  font-size: 40px;
+  text-align: center;
+  height: 90vh;
+}
+ 
+main{
+  width: 75%;
+  margin: auto;
+  background-color: white;
+}
