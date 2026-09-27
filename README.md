@@ -1,4 +1,4 @@
-# Potet (Placeholder)
+# README.md
 
 (Jeg slet med å finne på noe å lage.)
 
